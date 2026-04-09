@@ -14,3 +14,5 @@ This lab is for authorized pentesting practice only. Run it in an isolated netwo
 
 Click on the link below to download ova file.
 https://drive.google.com/file/d/1jtBHbxZKe1zqiw7ckKSeuMIbreu7ZiES/view?usp=drive_link
+
+![[https://github.com/begzaad/elysium/edit/main/README.md#:~:text=linkedin%2Dbanner.svg,18]]
