@@ -10,7 +10,3 @@ Elysium Lab is a fully Dockerized, realistic corporate pentesting environment de
 
 ## Intended Use
 This lab is for authorized pentesting practice only. Run it in an isolated network environment and do not expose it publicly.
-
-## Quick Start
-```bash
-docker compose up -d
